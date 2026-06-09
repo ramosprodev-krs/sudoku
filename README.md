@@ -77,6 +77,4 @@ Selecione uma das opções a seguir
 ## 📝 Licença
 
 Este projeto foi desenvolvido para fins educacionais pela DIO, documentado por mim.
-```
-
 ---
